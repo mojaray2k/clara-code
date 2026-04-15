@@ -3,19 +3,20 @@
 </p>
 
 <p align="center">
-  <em>The canonical public record for <strong>Voice Coding</strong> and <strong>VRD</strong> — two terms coined by <strong>Amen Ra</strong>.</em>
+  <em>The canonical public record for <strong>Voice Coding</strong>, <strong>Voice Coder</strong>, and <strong>VRD</strong> — three terms coined by <strong>Amen Ra</strong>.</em>
 </p>
 
 ---
 
 ## Purpose of This Repository
 
-This repository is the public attribution record for two terms introduced in April 2026:
+This repository is the public attribution record for three terms introduced in April 2026:
 
 1. **Voice Coding** — a new category of AI-assisted software creation
-2. **VRD (Voice Requirements Document)** — a new specification format for voice-first products
+2. **Voice Coder** — a person who practices Voice Coding (analogous to "vibe coder," but in the Voice Coding context)
+3. **VRD (Voice Requirements Document)** — a new specification format for voice-first products
 
-Both terms were coined by **Amen Ra**, April 2026. This repository serves as the canonical, timestamped source that future writing, research, and reporting can cite.
+All three terms were coined by **Amen Ra**, April 2026. This repository serves as the canonical, timestamped source that future writing, research, and reporting can cite.
 
 ---
 
@@ -28,7 +29,15 @@ Both terms were coined by **Amen Ra**, April 2026. This repository serves as the
 **Coined by:** Amen Ra
 **Date of first use:** April 15, 2026
 
-Unlike "vibe coding" (text prompt → app), autocomplete assistants (type-ahead in an editor), or no-code visual builders, **Voice Coding is voice-first, parallel, and team-based.** The operator speaks. A team of named agents — each with their own voice — builds in parallel.
+Unlike "vibe coding" (text prompt → app), autocomplete assistants (type-ahead in an editor), or no-code visual builders, **Voice Coding is voice-first, parallel, and team-based.** The operator — a **Voice Coder** — speaks. A team of named agents, each with their own voice, builds in parallel.
+
+## Voice Coder — Definition
+
+**Voice Coder** *(noun):*
+
+> A person who practices Voice Coding — a developer, designer, indie hacker, or non-technical founder who directs a team of parallel AI voice agents to build software, content, or workflows.
+
+Analogous to "vibe coder" in the prior generation of AI-assisted software creation, but covering the broader Voice Coding practice. A Voice Coder does not need to be a professional developer — the practice is accessible to anyone who can articulate what they want a team to build.
 
 ### The Voice Coding Principles
 
@@ -59,10 +68,15 @@ A generic VRD template is provided at [`VRD-TEMPLATE.md`](./VRD-TEMPLATE.md) in 
 
 ## Citation
 
-If you reference Voice Coding, VRDs, or cite either concept in writing, please credit the source:
+If you reference Voice Coding, Voice Coder, or VRD in writing, please credit the source:
 
 ```
 Voice Coding [Def.]. Coined by Amen Ra, April 15, 2026.
+https://github.com/mojaray2k/clara-code
+```
+
+```
+Voice Coder [Def.]. Coined by Amen Ra, April 15, 2026.
 https://github.com/mojaray2k/clara-code
 ```
 
@@ -89,5 +103,5 @@ The Voice Coding and VRD concepts are introduced openly in this repository for t
 ---
 
 <p align="center">
-  <strong>© 2026 Quik Nation, Inc. — Voice Coding and VRD are terms coined by Amen Ra, April 2026.</strong>
+  <strong>© 2026 Quik Nation, Inc. — Voice Coding, Voice Coder, and VRD are terms coined by Amen Ra, April 2026.</strong>
 </p>
